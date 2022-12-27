@@ -4,8 +4,9 @@
 
 ## Keep Reading , Keep Writing , Keep Coding.
 
-[简洁美观Blog](https://yaoyao.io)
-[极简风格Blog](https://yaoyao.blog)
+[Blog](https://yaoyao.io)
+
+[Blog](https://yaoyao.blog)
 
 
 
