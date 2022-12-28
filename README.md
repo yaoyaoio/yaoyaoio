@@ -4,8 +4,9 @@
 
 ## Keep Reading , Keep Writing , Keep Coding.
 
-[Blog 1](https://yaoyao.io) ·
-[Blog 2](https://yaoyao.blog) 
+
+* [很好看的Blog](https://yaoyao.io)
+* [很简洁的Blog](https://yaoyao.blog) 
 
 
 
